@@ -13,8 +13,6 @@ API lets you create, update and delete sprint titles and congratulatory text tem
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 
-[Discord](https://discord.com/developers/docs/intro): The Discord developer platform
-
 ## Endpoints
 
 ### Messages
@@ -117,5 +115,6 @@ npm run coverage
 
 ## API reference
 
-[Discord.js](https://old.discordjs.dev/#/docs/discord.js/main/general/welcome)
-[Tenor Gif](https://developers.google.com/tenor/guides/quickstart)
+[Discord.js](https://old.discordjs.dev/#/docs/discord.js/main/general/welcome) Node.js module that allows you to interact with the Discord API very easily <br>
+[Tenor Gif](https://developers.google.com/tenor/guides/quickstart) Tenor GIF API seamlessly integrates all of the best features of Tenor's GIF library into your app
+
